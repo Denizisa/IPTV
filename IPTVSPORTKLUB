@@ -1,1 +1,16 @@
-dsfsdfsdfsd
+#EXTM3U
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORT KLUB
+http://152.89.62.111:8080/kyle123/kyle123/246196?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Sport",Sport Klub 3 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4205?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 1 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30281?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 2 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30280?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 3 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30279?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 4 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30278?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",SPORT KLUB 5 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30277?checkedby:iptvcat.com
+
